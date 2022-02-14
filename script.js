@@ -26,9 +26,6 @@ let plays = {
   "Отелло": {
 		"name": "Отелло", 
 		"type": "tragedy"},
-	"иудаки": {
-		"name": "иудаки",
-		"type": "comedy"},
     "Будаки": {
         "name": "Будаки",
         "type": "comedy"}
