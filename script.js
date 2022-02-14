@@ -29,6 +29,9 @@ let plays = {
 	"иудаки": {
 		"name": "иудаки",
 		"type": "comedy"}
+    "Лудаки": {
+        "name": "Лудаки",
+        "type": "comedy"}
 }
 
 let invoices = [
