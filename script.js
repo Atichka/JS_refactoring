@@ -3,7 +3,7 @@ class Bonus {
 		this.container = container;
 	}
 
-	// Добавление бонусов
+	// Добавление бонусов - тестируем git pull
 	addBonus(audience, volumeCredits) {
 		volumeCredits += Math.max(audience - 30, 0);
 		return volumeCredits;
