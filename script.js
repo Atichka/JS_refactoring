@@ -3,7 +3,7 @@ class Bonus {
 		this.container = container;
 	}
 
-	// Добавление бонусов - тестируем
+	// Добавление бонусов - тестируем 123
 	addBonus(audience, volumeCredits) {
 		volumeCredits += Math.max(audience - 30, 0);
 		return volumeCredits;
